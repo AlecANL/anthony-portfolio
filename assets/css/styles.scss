@@ -198,7 +198,7 @@ nav ul li a {
   grid-template-columns: 1fr 1fr;
   margin-inline-start: 76px;
   margin-block: 24px;
-  @include form(s) {
+  @include form(xl) {
     margin-inline: 0;
     grid-template-columns: 100px 150px 150px;
   }
