@@ -106,6 +106,8 @@ nav ul li a {
 }
 
 .hero h1 {
+  position: relative;
+  inset-inline-start: -50px;
   margin: 0;
   font-size: 30px;
 }
